@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-        // ch
+
         binding.image4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
